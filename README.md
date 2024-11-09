@@ -26,5 +26,3 @@ This repository contain:
 (2) The scripts for data processing and applying TOBIAS to the analysis of ATAC-seq data of the health and patient CD4 and CD8 cell samples to decipher TF-binding regulatory mechanism responsible for Psoriatic Arthritis (PsA).
 
 All the scripts are adapted to The University of Manchester CFS3 (Computational Share Facility 3).
-
-## Workflow
