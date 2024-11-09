@@ -6,7 +6,7 @@
 
 The principle of ATAC-seq:
 
-![ATAC-seq principle](figures/ATAC-seq_principle.svg | width=100)
+![ATAC-seq principle](figures/ATAC-seq_principle.svg | width="100")
 
 
 ATAC-seq data analysis workflow:
