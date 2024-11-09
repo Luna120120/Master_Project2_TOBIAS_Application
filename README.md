@@ -6,7 +6,7 @@
 
 The principle of ATAC-seq:
 
-![ATAC-seq principle](ATAC-seq_principle.svg)
+![ATAC-seq principle](figures/ATAC-seq_principle.svg)
 
 **2. TOBIAS (Transcription factor Occupancy prediction By Investigation of ATAC-seq Signal)** is a computational tool used with ATAC-seq data to predict transcription factor binding sites. By accounting for chromatin accessibility and footprinting, TOBIAS improves the accuracy of identifying transcription factor occupancy, enabling deeper insights into gene regulation and cell-specific regulatory networks.
 
