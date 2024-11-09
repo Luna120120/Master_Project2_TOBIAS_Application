@@ -6,17 +6,17 @@
 
 The principle of ATAC-seq:
 
-<img src="figures/ATAC-seq_principle.svg" alt="ATAC-seq principle" width="100">
+<img src="figures/ATAC-seq_principle.svg" alt="ATAC-seq principle" width="500">
 
 ATAC-seq data analysis workflow:
 
-<img src="figures/ATAC-seq_data_analysis_workflow.svg" alt="TOBIAS workflow" width="100">
+<img src="figures/ATAC-seq_data_analysis_workflow.svg" alt="TOBIAS workflow" width="500">
 
 **2. TOBIAS (Transcription factor Occupancy prediction By Investigation of ATAC-seq Signal)** is a computational tool used with ATAC-seq data to predict transcription factor binding sites. By accounting for chromatin accessibility and footprinting, TOBIAS improves the accuracy of identifying transcription factor occupancy, enabling deeper insights into gene regulation and cell-specific regulatory networks.
 
 TOBIAS principle:
 
-![TOBIAS principle](figures/TOBIAS_principle.svg | width=100)
+<img src="figures/TOBIAS_principle.svg" alt="TOBIAS principle" width="500">
 
 ## Description
 This repository contain:
